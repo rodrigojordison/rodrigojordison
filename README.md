@@ -46,7 +46,7 @@ Me chamo José Rodrigo da Silva, tenho 33 anos e sou natural de Mamanguape-PB. C
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/React/React-original.svg" 
 />
 <img 
     align="left" 
